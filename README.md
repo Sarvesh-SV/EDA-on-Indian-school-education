@@ -5,3 +5,6 @@ Numpy
 Pandas
 Matplotlib
 Seaborn
+# To view the Notebook
+Click the below link
+https://nbviewer.jupyter.org/github/Sarvesh-SV/EDA-on-Indian-school-education/blob/main/Indian%20School%20education-%5BEDA%5D.ipynb
